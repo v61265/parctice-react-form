@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CACnB,6BAA8B,CAC9B,QACF","file":"main.9b650f4e.chunk.css","sourcesContent":["body {\n  background: #f0f0f0;\n  font-family: MicrosoftJhengHei;\n  margin: 0;\n}\n"]}
